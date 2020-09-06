@@ -1,0 +1,17 @@
+.statistic__list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    /* align-content: center ; */
+}
+.statistic__item{
+    display: flex;
+    width: 90px;
+}
+.statistic__name{
+    width: 70px;
+}
+.statistic__value{
+    font-weight: bold;
+}

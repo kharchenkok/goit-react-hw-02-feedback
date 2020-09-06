@@ -1,0 +1,6 @@
+.notification__message{
+    display: inline-block;
+    font-size: 25px;
+    color: #f13636;
+    margin: 0;
+}
